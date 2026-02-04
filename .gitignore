@@ -1,0 +1,22 @@
+# Datasets grandes
+*.csv
+*.pkl
+*.h5
+*.joblib
+
+# Carpetas de datos
+PROJECTE/dataset/
+PROJECTE/Procediments/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Archivos grandes excluidos
+*.csv
+*.pkl
+*.h5
+PROJECTE/dataset/
+PROJECTE/Procediments/*.pkl
+__pycache__/
+.ipynb_checkpoints/

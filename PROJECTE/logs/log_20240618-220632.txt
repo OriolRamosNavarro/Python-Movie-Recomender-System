@@ -1,0 +1,5 @@
+2024-06-18 22:06:32,669 | root | INFO | Dades carregades des de dataset/Books/Books-small.pkl
+2024-06-18 22:06:32,671 | root | INFO | S'ha completat la execucció de Content_Items en 0.07674 segons.
+2024-06-18 22:06:32,758 | root | INFO | Dades carregades des de dataset/Books/Ratings-small.pkl
+2024-06-18 22:06:32,758 | root | INFO | S'ha completat la execucció de Ratings en 0.08733 segons.
+2024-06-18 22:07:11,629 | root | INFO | Dades carregades des de Procediments/books-matriu_valoracions.pkl

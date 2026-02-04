@@ -26,5 +26,3 @@ bash
 git clone https://github.com/OriolRamosNavarro/Python-Movie-Recomender-System.git
 cd Python-Movie-Recomender-System
 pip install pandas numpy scikit-learn matplotlib
-# Descarga los datasets y colócalos en las rutas indicadas
-python PROJECTE/main.py
